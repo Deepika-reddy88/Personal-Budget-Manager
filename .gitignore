@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# SQLite database
+expenses.db
+
+# VS Code
+.vscode/
